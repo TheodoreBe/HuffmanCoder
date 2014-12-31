@@ -1,0 +1,4 @@
+HuffmanCoder
+============
+
+Data structures class
